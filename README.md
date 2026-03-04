@@ -1,7 +1,6 @@
 # 🌾 KrishiGuard AI - Crop Disease Detection
 
-Check out Here → https://agrigaurd-ai-crop-disease-detection.streamlit.app/
-
+Check out Here → 
 ---
 
 KrishiGuard AI is an AI-powered crop disease detection system designed to help farmers quickly identify plant diseases through leaf image analysis. Using **Deep Learning & Computer Vision**, it provides accurate and real-time results, enabling early intervention to prevent crop loss.
@@ -48,7 +47,7 @@ KrishiGuard AI is an AI-powered crop disease detection system designed to help f
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/KrishiGuard-AI.git
+git clone https://github.com/kunalvaishkiyar/KrishiGuard-AI.git
 cd KrishiGuard-AI
 ```
 
@@ -77,16 +76,16 @@ krishiguard-ai/
 
 ## 📎 Demo & Deployment
 
-🔗 **Live Demo:** https://agrigaurd-ai-crop-disease-detection.streamlit.app/
+🔗 **Live Demo:** 
 
-📂 **GitHub Repository:** *(add your repo link here)*
+📂 **GitHub Repository:** https://github.com/kunalvaishkiyar/krishiguard-ai
 
 ---
 
 ## 📢 Connect With Me
 👤 **Developer:** Kunal Kumar  
-🔗 **LinkedIn:** [kunalvaishkiyar](https://www.linkedin.com/in/kunalvaishkiyar)
+🔗 **LinkedIn:** https://www.linkedin.com/in/kunalvaishkiyar
 
 ---
 
-*© 2025 KrishiGuard AI — Made with ❤️ in Pune*
+
