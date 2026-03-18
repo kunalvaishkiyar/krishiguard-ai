@@ -851,7 +851,7 @@ elif app_mode == "📚  About":
     <div style="text-align:center; margin-top:2rem; padding:1.5rem;
                 background:linear-gradient(135deg, var(--green-deep), var(--green-mid));
                 border-radius:20px; color:rgba(255,255,255,0.8); font-size:0.88rem;">
-        © 2025 KrishiGuard AI &nbsp;·&nbsp; Developed with ❤️‍🔥 by <strong style="color:#ffe082;">Rohit</strong> in Pune
+        © 2025 KrishiGuard AI &nbsp;·&nbsp; Developed with ❤️‍🔥 by <strong style="color:#ffe082;">KUNAL</strong> in BIHAR
         &nbsp;·&nbsp; Powered by TensorFlow & Streamlit
     </div>
     """, unsafe_allow_html=True)
