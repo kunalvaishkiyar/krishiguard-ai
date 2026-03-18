@@ -444,7 +444,7 @@ with st.sidebar:
         💡 <strong>Pro Tip:</strong> Use high-resolution, well-lit leaf photos for the most accurate diagnosis.
     </div>
     <div style="text-align:center; margin-top:2rem; font-size:0.72rem; color:rgba(255,255,255,0.25);">
-        © 2025 KrishiGuard AI<br>Made with ❤️ by Rohit · Pune
+        © 2025 KrishiGuard AI<br>Made with ❤️ by kunal · BIHAR
     </div>
     """, unsafe_allow_html=True)
 
